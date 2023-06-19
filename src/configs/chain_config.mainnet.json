@@ -1,0 +1,32 @@
+{
+  "title": "Catena Block Explorer",
+  "network": "catena-origo-1",
+  "icon": "/images/catena.png",
+  "logo": {
+    "default": "/images/catena.png"
+  },
+  "prefix": {
+    "consensus": "cmcxvalcons",
+    "validator": "cmcxvaloper",
+    "account": "cmcx"
+  },
+  "genesis": {
+    "time": "2021-07-13T08:00:00",
+    "height": 1
+  },
+  "primaryTokenUnit": "exa",
+  "votingPowerTokenUnit": "exa",
+  "tokenUnits": {
+    "exa": {
+      "display": "cmcx",
+      "exponent": 18
+    },
+    "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518": {
+      "display": "osmo",
+      "exponent": 6
+    }
+  },
+  "extra": {
+    "profile": false
+  }
+}

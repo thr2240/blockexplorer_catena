@@ -1,0 +1,11 @@
+{
+  "maintainer": {
+    "name": "Catena",
+    "url": "https://blocks.catenaexplorer.com"
+  },
+  "github": {
+    "reportIssue": "https://github.com/OrigoTeam/Catena/issues"
+  },
+  "previewImage": "https://blocks.catenaexplorer.com/images/catena.png",
+  "version": "base-v1.1.0"
+}
